@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "49248672055",
+    "firebase_url": "https://uber-drivers-app-default-rtdb.firebaseio.com",
+    "project_id": "uber-drivers-app",
+    "storage_bucket": "uber-drivers-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49248672055:android:51494b4a2db98285fde2b2",
+        "android_client_info": {
+          "package_name": "com.example.uber_drivers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWNavqY0Q3LKRiQnI4GMIoutQYgmXKHmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49248672055:android:e7faaef8a3cc9dcdfde2b2",
+        "android_client_info": {
+          "package_name": "com.example.uber_users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWNavqY0Q3LKRiQnI4GMIoutQYgmXKHmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
